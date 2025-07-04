@@ -4,3 +4,4 @@
 - refactor.
 - ✅ July 4: I've worked on boot.dev or a coding project everyday since.
 - Today I worked on js for bitburner.
+test
