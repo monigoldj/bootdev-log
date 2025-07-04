@@ -2,3 +2,5 @@
 - ✅ June 27: Learning inheritance and applied it.
 - ✅ June 28: Apllied everything I learned to the game including an awesome
 - refactor.
+- ✅ July 4: I've worked on boot.dev or a coding project everyday since.
+- Today I worked on js for bitburner.
